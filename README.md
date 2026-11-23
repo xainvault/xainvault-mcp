@@ -172,10 +172,10 @@ Open or create `~/.cursor/mcp.json` for a global, machine-only connection:
 }
 ```
 
-Open **Cursor Settings → MCP** and confirm Xainvault is enabled. Use
+Open **Customize → MCPs** and confirm Xainvault is enabled. Use
 `.cursor/mcp.json` only when a project-scoped connection is intentional, and do
 not commit a real key. See the
-[Cursor MCP documentation](https://docs.cursor.com/context/model-context-protocol).
+[Cursor MCP documentation](https://cursor.com/docs/mcp).
 
 ### VS Code (GitHub Copilot)
 
